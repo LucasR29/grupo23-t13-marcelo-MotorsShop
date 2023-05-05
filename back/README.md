@@ -227,7 +227,7 @@ Caso dê um erro irá retornar o seguinte erro:
 
 <br/>
 
-> Caso seja informado um token inválido:
+Caso seja informado um token inválido:
 
 ```json
 {
@@ -236,13 +236,13 @@ Caso dê um erro irá retornar o seguinte erro:
 ```
 > Caso esteja faltando algum campo:
 
-````json
+```json
 {
 	"message": "null value in column \"mileage\" of relation \"ads\" violates not-null constraint"
 }
 ```
 
-## <br/>
+<br/>
 
 <li style='font-size: 20px'>Atualização de um Ads</li>
 
